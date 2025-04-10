@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.projectDelgadoAedra.api", "app.projectDelgadoAedra.api\app.projectDelgadoAedra.api.csproj", "{0EF1F5B1-0CD1-49E2-9CF0-DD0893DDDE98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.projectDelgadoAedra.services", "app.projectDelgadoAedra services\app.projectDelgadoAedra.services.csproj", "{31350A87-8E6C-4155-AB6F-1B58FA4F0B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.projectDelgadoAedra.accessData", "app.projectDelgadoAedra.accessData\app.projectDelgadoAedra.accessData.csproj", "{36B11E56-6BE4-4FC2-B75C-1D747878B33A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.projectDelgadoAedra.common", "app.projectDelgadoAedra.common\app.projectDelgadoAedra.common.csproj", "{58A47B0B-1696-4C8D-AC33-27EEA15AFF6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.projectDelgadoAedra.entities", "app.projectDelgadoAedra.entities\app.projectDelgadoAedra.entities.csproj", "{A770F14B-47E6-42C5-82BC-5420EA4CEBA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF1F5B1-0CD1-49E2-9CF0-DD0893DDDE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF1F5B1-0CD1-49E2-9CF0-DD0893DDDE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF1F5B1-0CD1-49E2-9CF0-DD0893DDDE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF1F5B1-0CD1-49E2-9CF0-DD0893DDDE98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31350A87-8E6C-4155-AB6F-1B58FA4F0B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31350A87-8E6C-4155-AB6F-1B58FA4F0B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31350A87-8E6C-4155-AB6F-1B58FA4F0B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31350A87-8E6C-4155-AB6F-1B58FA4F0B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B11E56-6BE4-4FC2-B75C-1D747878B33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B11E56-6BE4-4FC2-B75C-1D747878B33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B11E56-6BE4-4FC2-B75C-1D747878B33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B11E56-6BE4-4FC2-B75C-1D747878B33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A47B0B-1696-4C8D-AC33-27EEA15AFF6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A47B0B-1696-4C8D-AC33-27EEA15AFF6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A47B0B-1696-4C8D-AC33-27EEA15AFF6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A47B0B-1696-4C8D-AC33-27EEA15AFF6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A770F14B-47E6-42C5-82BC-5420EA4CEBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A770F14B-47E6-42C5-82BC-5420EA4CEBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A770F14B-47E6-42C5-82BC-5420EA4CEBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A770F14B-47E6-42C5-82BC-5420EA4CEBA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26BD6A98-D57F-4E44-8533-92775D89C4F3}
+	EndGlobalSection
+EndGlobal

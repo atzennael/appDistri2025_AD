@@ -1,0 +1,14 @@
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.entities\bin\Debug\net8.0\app.projectDelgadoAedra.entities.deps.json
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.entities\bin\Debug\net8.0\app.projectDelgadoAedra.entities.runtimeconfig.json
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.entities\bin\Debug\net8.0\app.projectDelgadoAedra.entities.dll
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.entities\bin\Debug\net8.0\app.projectDelgadoAedra.entities.pdb
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.entities\obj\Debug\net8.0\app.projectDelgadoAedra.entities.csproj.AssemblyReference.cache
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.entities\obj\Debug\net8.0\app.projectDelgadoAedra.entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.entities\obj\Debug\net8.0\app.projectDelgadoAedra.entities.AssemblyInfoInputs.cache
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.entities\obj\Debug\net8.0\app.projectDelgadoAedra.entities.AssemblyInfo.cs
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.entities\obj\Debug\net8.0\app.projectDelgadoAedra.entities.csproj.CoreCompileInputs.cache
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.entities\obj\Debug\net8.0\app.projectDelgadoAedra.entities.dll
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.entities\obj\Debug\net8.0\refint\app.projectDelgadoAedra.entities.dll
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.entities\obj\Debug\net8.0\app.projectDelgadoAedra.entities.pdb
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.entities\obj\Debug\net8.0\app.projectDelgadoAedra.entities.genruntimeconfig.cache
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.entities\obj\Debug\net8.0\ref\app.projectDelgadoAedra.entities.dll

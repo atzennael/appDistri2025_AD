@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LLs0IILztPT0/boz9fY8PNskVfbKGy6axaxz3jdNQdc=",
+  "Source": "app.projectDelgadoAedra.api",
+  "BasePath": "_content/app.projectDelgadoAedra.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

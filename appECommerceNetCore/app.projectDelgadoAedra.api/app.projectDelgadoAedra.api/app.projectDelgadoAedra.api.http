@@ -1,0 +1,6 @@
+@app.projectDelgadoAedra.api_HostAddress = http://localhost:5056
+
+GET {{app.projectDelgadoAedra.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,17 @@
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\bin\Debug\net8.0\app.projectDelgadoAedra.accessData.deps.json
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\bin\Debug\net8.0\app.projectDelgadoAedra.accessData.runtimeconfig.json
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\bin\Debug\net8.0\app.projectDelgadoAedra.accessData.dll
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\bin\Debug\net8.0\app.projectDelgadoAedra.accessData.pdb
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\bin\Debug\net8.0\app.projectDelgadoAedra.entities.dll
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\bin\Debug\net8.0\app.projectDelgadoAedra.entities.pdb
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\obj\Debug\net8.0\app.projectDelgadoAedra.accessData.csproj.AssemblyReference.cache
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\obj\Debug\net8.0\app.projectDelgadoAedra.accessData.GeneratedMSBuildEditorConfig.editorconfig
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\obj\Debug\net8.0\app.projectDelgadoAedra.accessData.AssemblyInfoInputs.cache
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\obj\Debug\net8.0\app.projectDelgadoAedra.accessData.AssemblyInfo.cs
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\obj\Debug\net8.0\app.projectDelgadoAedra.accessData.csproj.CoreCompileInputs.cache
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\obj\Debug\net8.0\app.proj.76D06EDF.Up2Date
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\obj\Debug\net8.0\app.projectDelgadoAedra.accessData.dll
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\obj\Debug\net8.0\refint\app.projectDelgadoAedra.accessData.dll
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\obj\Debug\net8.0\app.projectDelgadoAedra.accessData.pdb
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\obj\Debug\net8.0\app.projectDelgadoAedra.accessData.genruntimeconfig.cache
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\obj\Debug\net8.0\ref\app.projectDelgadoAedra.accessData.dll

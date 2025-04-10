@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31350A87-8E6C-4155-AB6F-1B58FA4F0B74}|app.projectDelgadoAedra services\\app.projectDelgadoAedra.services.csproj|d:\\distribuidas\\appecommercenetcore\\app.projectdelgadoaedra.api\\app.projectdelgadoaedra services\\implementations\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31350A87-8E6C-4155-AB6F-1B58FA4F0B74}|app.projectDelgadoAedra services\\app.projectDelgadoAedra.services.csproj|solutionrelative:app.projectdelgadoaedra services\\implementations\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF1F5B1-0CD1-49E2-9CF0-DD0893DDDE98}|app.projectDelgadoAedra.api\\app.projectDelgadoAedra.api.csproj|d:\\distribuidas\\appecommercenetcore\\app.projectdelgadoaedra.api\\app.projectdelgadoaedra.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF1F5B1-0CD1-49E2-9CF0-DD0893DDDE98}|app.projectDelgadoAedra.api\\app.projectDelgadoAedra.api.csproj|solutionrelative:app.projectdelgadoaedra.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF1F5B1-0CD1-49E2-9CF0-DD0893DDDE98}|app.projectDelgadoAedra.api\\app.projectDelgadoAedra.api.csproj|d:\\distribuidas\\appecommercenetcore\\app.projectdelgadoaedra.api\\app.projectdelgadoaedra.api\\app.projectdelgadoaedra.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EF1F5B1-0CD1-49E2-9CF0-DD0893DDDE98}|app.projectDelgadoAedra.api\\app.projectDelgadoAedra.api.csproj|solutionrelative:app.projectdelgadoaedra.api\\app.projectdelgadoaedra.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31350A87-8E6C-4155-AB6F-1B58FA4F0B74}|app.projectDelgadoAedra services\\app.projectDelgadoAedra.services.csproj|d:\\distribuidas\\appecommercenetcore\\app.projectdelgadoaedra.api\\app.projectdelgadoaedra services\\eventmq\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31350A87-8E6C-4155-AB6F-1B58FA4F0B74}|app.projectDelgadoAedra services\\app.projectDelgadoAedra.services.csproj|solutionrelative:app.projectdelgadoaedra services\\eventmq\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31350A87-8E6C-4155-AB6F-1B58FA4F0B74}|app.projectDelgadoAedra services\\app.projectDelgadoAedra.services.csproj|d:\\distribuidas\\appecommercenetcore\\app.projectdelgadoaedra.api\\app.projectdelgadoaedra services\\eventmq\\irabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31350A87-8E6C-4155-AB6F-1B58FA4F0B74}|app.projectDelgadoAedra services\\app.projectDelgadoAedra.services.csproj|solutionrelative:app.projectdelgadoaedra services\\eventmq\\irabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31350A87-8E6C-4155-AB6F-1B58FA4F0B74}|app.projectDelgadoAedra services\\app.projectDelgadoAedra.services.csproj|d:\\distribuidas\\appecommercenetcore\\app.projectdelgadoaedra.api\\app.projectdelgadoaedra services\\app.projectdelgadoaedra.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31350A87-8E6C-4155-AB6F-1B58FA4F0B74}|app.projectDelgadoAedra services\\app.projectDelgadoAedra.services.csproj|solutionrelative:app.projectdelgadoaedra services\\app.projectdelgadoaedra.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF1F5B1-0CD1-49E2-9CF0-DD0893DDDE98}|app.projectDelgadoAedra.api\\app.projectDelgadoAedra.api.csproj|d:\\distribuidas\\appecommercenetcore\\app.projectdelgadoaedra.api\\app.projectdelgadoaedra.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EF1F5B1-0CD1-49E2-9CF0-DD0893DDDE98}|app.projectDelgadoAedra.api\\app.projectDelgadoAedra.api.csproj|solutionrelative:app.projectdelgadoaedra.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A47B0B-1696-4C8D-AC33-27EEA15AFF6E}|app.projectDelgadoAedra.common\\app.projectDelgadoAedra.common.csproj|d:\\distribuidas\\appecommercenetcore\\app.projectdelgadoaedra.api\\app.projectdelgadoaedra.common\\app.projectdelgadoaedra.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58A47B0B-1696-4C8D-AC33-27EEA15AFF6E}|app.projectDelgadoAedra.common\\app.projectDelgadoAedra.common.csproj|solutionrelative:app.projectdelgadoaedra.common\\app.projectdelgadoaedra.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.projectDelgadoAedra.api",
+              "DocumentMoniker": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra.api.csproj",
+              "RelativeDocumentMoniker": "app.projectDelgadoAedra.api\\app.projectDelgadoAedra.api.csproj",
+              "ToolTip": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra.api.csproj",
+              "RelativeToolTip": "app.projectDelgadoAedra.api\\app.projectDelgadoAedra.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T00:25:51.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra services\\Implementations\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "app.projectDelgadoAedra services\\Implementations\\CategoriaService.cs",
+              "ToolTip": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra services\\Implementations\\CategoriaService.cs*",
+              "RelativeToolTip": "app.projectDelgadoAedra services\\Implementations\\CategoriaService.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowE0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T00:21:01.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra services\\EventMQ\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "app.projectDelgadoAedra services\\EventMQ\\RabbitMQService.cs",
+              "ToolTip": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra services\\EventMQ\\RabbitMQService.cs*",
+              "RelativeToolTip": "app.projectDelgadoAedra services\\EventMQ\\RabbitMQService.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T00:13:03.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRabbitMQService.cs",
+              "DocumentMoniker": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra services\\EventMQ\\IRabbitMQService.cs",
+              "RelativeDocumentMoniker": "app.projectDelgadoAedra services\\EventMQ\\IRabbitMQService.cs",
+              "ToolTip": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra services\\EventMQ\\IRabbitMQService.cs*",
+              "RelativeToolTip": "app.projectDelgadoAedra services\\EventMQ\\IRabbitMQService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T00:12:22.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.projectDelgadoAedra.services",
+              "DocumentMoniker": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra services\\app.projectDelgadoAedra.services.csproj",
+              "RelativeDocumentMoniker": "app.projectDelgadoAedra services\\app.projectDelgadoAedra.services.csproj",
+              "ToolTip": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra services\\app.projectDelgadoAedra.services.csproj*",
+              "RelativeToolTip": "app.projectDelgadoAedra services\\app.projectDelgadoAedra.services.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T00:11:34.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra.api\\Program.cs",
+              "RelativeDocumentMoniker": "app.projectDelgadoAedra.api\\Program.cs",
+              "ToolTip": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra.api\\Program.cs*",
+              "RelativeToolTip": "app.projectDelgadoAedra.api\\Program.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:36:11.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.projectDelgadoAedra.common",
+              "DocumentMoniker": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra.common\\app.projectDelgadoAedra.common.csproj",
+              "RelativeDocumentMoniker": "app.projectDelgadoAedra.common\\app.projectDelgadoAedra.common.csproj",
+              "ToolTip": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra.common\\app.projectDelgadoAedra.common.csproj*",
+              "RelativeToolTip": "app.projectDelgadoAedra.common\\app.projectDelgadoAedra.common.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T00:09:01.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra.api\\appsettings.json",
+              "RelativeDocumentMoniker": "app.projectDelgadoAedra.api\\appsettings.json",
+              "ToolTip": "D:\\distribuidas\\appECommerceNetCore\\app.projectDelgadoAedra.api\\app.projectDelgadoAedra.api\\appsettings.json*",
+              "RelativeToolTip": "app.projectDelgadoAedra.api\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T00:06:03.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

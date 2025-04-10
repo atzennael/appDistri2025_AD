@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\app.projectDelgadoAedra.api.props" />
+</Project>
