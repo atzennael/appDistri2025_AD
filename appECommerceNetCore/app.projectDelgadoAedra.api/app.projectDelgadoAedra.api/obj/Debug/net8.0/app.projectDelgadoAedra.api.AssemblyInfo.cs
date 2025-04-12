@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("app.projectDelgadoAedra.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9421733474c0e860ae334dd5f7e533f8e9752a1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("app.projectDelgadoAedra.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("app.projectDelgadoAedra.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

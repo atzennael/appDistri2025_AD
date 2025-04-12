@@ -7,6 +7,7 @@ using app.projectDelgadoAedra.accessData.Repositories;
 using app.projectDelgadoAedra.common.Dto;
 using app.projectDelgadoAedra.common.Request;
 using app.projectDelgadoAedra.entities;
+using app.projectDelgadoAedra_services.EventMQ;
 using app.projectDelgadoAedra_services.Interfaces;
 
 namespace app.projectDelgadoAedra_services.Implementations
@@ -14,10 +15,12 @@ namespace app.projectDelgadoAedra_services.Implementations
     public class ProductoService : IProductoService
     {
         private readonly IProductoRepository _repository;
+        private readonly IRabbitMQService _rabbitMQService;
 
-        public ProductoService(IProductoRepository repository)
+        public ProductoService(IProductoRepository repository, IRabbitMQService rabbitMQService)
         {
             _repository = repository;
+            _rabbitMQService = rabbitMQService;
         }
 
         public async Task<BaseResponse<ProductoDto>> ActualizarProducto(int id, ProductoRequest request)
@@ -82,6 +85,7 @@ namespace app.projectDelgadoAedra_services.Implementations
                 };
 
                 response.Success = true;
+                await _rabbitMQService.PublishMessage(response.Result, "productosQueue");
             }
             catch (Exception ex)
             {
