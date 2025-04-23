@@ -31,7 +31,7 @@ namespace app.projectDelgadoAedra_services.Implementations
                 VentaDetalle detalle = new();
                 detalle.Id = id;
                 detalle.VentaId = request.VentaId;
-                detalle.Venta = request.Venta;
+                //detalle.Venta = request.Venta;
                 detalle.NumeroItem = request.NumeroItem;
                 detalle.ProductoId = request.ProductoId;
                 detalle.Producto = request.Producto;
@@ -73,7 +73,7 @@ namespace app.projectDelgadoAedra_services.Implementations
                 VentaDetalle detalleEntity = new();
 
                 detalleEntity.VentaId = request.VentaId;
-                detalleEntity.Venta = request.Venta;
+                //detalleEntity.Venta = request.Venta;
                 detalleEntity.NumeroItem = request.NumeroItem;
                 detalleEntity.ProductoId = request.ProductoId;
                 detalleEntity.Producto = request.Producto;
@@ -99,7 +99,7 @@ namespace app.projectDelgadoAedra_services.Implementations
                 };
 
                 response.Success = true;
-                await _rabbitMQService.PublishMessage(response.Result, "detallesQueue");
+                await _rabbitMQService.PublishMessage(response.Result, "facturaDtoQueue");
             }
             catch (Exception ex)
             {

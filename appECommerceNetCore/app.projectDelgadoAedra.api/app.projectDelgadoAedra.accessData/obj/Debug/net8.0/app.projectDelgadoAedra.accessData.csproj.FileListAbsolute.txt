@@ -15,3 +15,4 @@ D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelga
 D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\obj\Debug\net8.0\app.projectDelgadoAedra.accessData.pdb
 D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\obj\Debug\net8.0\app.projectDelgadoAedra.accessData.genruntimeconfig.cache
 D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\obj\Debug\net8.0\ref\app.projectDelgadoAedra.accessData.dll
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.accessData\obj\Debug\net8.0\app.projectDelgadoAedra.accessData.sourcelink.json

@@ -1,0 +1,56 @@
+bin/
+obj/
+out/
+TestResults/
+**/bin
+**/out
+**/obj
+**/*.user
+**/*.suo
+.vs
+
+# Carpetas de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+
+# Entorno virtual
+env/
+venv/
+ENV/
+.venv/
+
+# Archivos de configuración del IDE
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de prueba y resultados
+*.log
+*.sqlite3
+*.db
+coverage/
+htmlcov/
+*.coverage
+*.egg-info/
+
+# Archivos de compilación
+build/
+dist/
+*.egg
+*.whl
+
+# Dockerfiles innecesarios (opcional)
+docker-compose.override.yml
+
+# Archivos innecesarios
+*.bak
+*.swp
+*.tmp

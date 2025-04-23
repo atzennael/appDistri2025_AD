@@ -31,7 +31,7 @@ namespace app.projectDelgadoAedra_services.Implementations
                 Venta venta = new();
                 venta.Id = id;
                 venta.ClienteId = request.ClienteId;
-                venta.Cliente = request.Cliente;
+                //venta.Cliente = request.Cliente;
                 venta.FechaVenta = request.FechaVenta;
                 venta.NumeroFactura = request.NumeroFactura;
                 venta.MetodoPago = request.MetodoPago;
@@ -69,7 +69,7 @@ namespace app.projectDelgadoAedra_services.Implementations
                 Venta ventaEntity = new();
                 
                 ventaEntity.ClienteId = request.ClienteId;
-                ventaEntity.Cliente = request.Cliente;
+                //ventaEntity.Cliente = request.Cliente;
                 ventaEntity.FechaVenta = request.FechaVenta;
                 ventaEntity.NumeroFactura = request.NumeroFactura;
                 ventaEntity.MetodoPago = request.MetodoPago;

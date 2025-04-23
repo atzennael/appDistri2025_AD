@@ -180,3 +180,5 @@ D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelga
 D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.api\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.api\bin\Debug\net8.0\RabbitMQ.Client.dll
 D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.api\obj\Debug\net8.0\app.projectDelgadoAedra.api.MvcApplicationPartsAssemblyInfo.cs
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.api\obj\Debug\net8.0\app.projectDelgadoAedra.api.sourcelink.json
+D:\distribuidas\appECommerceNetCore\app.projectDelgadoAedra.api\app.projectDelgadoAedra.api\bin\Debug\net8.0\appsettings.docker.json

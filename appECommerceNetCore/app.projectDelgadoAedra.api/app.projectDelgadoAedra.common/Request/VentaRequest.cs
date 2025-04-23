@@ -13,7 +13,6 @@ namespace app.projectDelgadoAedra.common.Request
         [Required(ErrorMessage = "El campo es obligatorio")]
         public int ClienteId { get; set; }
 
-        [Required(ErrorMessage = "El campo es obligatorio")]
         public Cliente? Cliente { get; set; }
 
         [Required(ErrorMessage = "El campo FechaVenta es obligatorio y/o el formato no es válido")]

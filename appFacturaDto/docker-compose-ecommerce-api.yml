@@ -1,0 +1,27 @@
+services:
+  proyecto-ecommerce:
+    container_name: proyectoApiFactura-AD
+    image: apifactura-api:v1
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        PROJECT_NAME: app.projectCholcaByron.api
+    ports:
+      - "8000:8000"
+    networks:
+      - net-app-distri
+
+    environment:
+      - DJANGO_SETTINGS_MODULE=facturas.settings
+      - DB_HOST=database-postgres
+      - DB_PORT=5432
+      - DB_NAME=BDDFACTURA
+      - DB_USER=postgres
+      - DB_PASSWORD=admin
+
+networks:
+  net-app-distri:
+    name: netappdistri
+    external: true
+    

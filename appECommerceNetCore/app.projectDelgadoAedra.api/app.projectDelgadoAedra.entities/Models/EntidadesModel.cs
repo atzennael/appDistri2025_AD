@@ -79,7 +79,7 @@ namespace app.projectDelgadoAedra.entities
 
     public class VentaDetalle : EntityBase
     {
-        public string? VentaId { get; set; }
+        public int VentaId { get; set; }
 
         public Venta? Venta { get; set; }
 

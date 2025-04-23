@@ -2,6 +2,7 @@ import os
 import json
 import pika
 import django
+import pymysql
 from django.conf import settings
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
@@ -20,13 +21,20 @@ settings.configure(
 
 django.setup()
 
-# Configuración RabbitMQ (ajusta según sea necesario)
 RABBITMQ_CONFIG = {
     "username": "admin",
     "password": "admin",
     "virtualHost": "/",
     "port": 5672,
     "hostname": "localhost"
+}
+
+MYSQL_CONFIG = {
+    'host': 'localhost',  # Cambia si usas contenedor separado
+    'user': 'root',
+    'password': 'admin',
+    'database': 'apiFactura',
+    'port': 3307,
 }
 
 def get_rabbitmq_connection():
@@ -41,6 +49,15 @@ def get_rabbitmq_connection():
         credentials=credentials
     )
     return pika.BlockingConnection(parameters)
+
+def insert_into_mysql(data):
+    conn = pymysql.connect(**MYSQL_CONFIG)
+    cursor = conn.cursor()
+    sql = "INSERT INTO facturas (nombre, apellido, telefono, correo) VALUES (%s, %s, %s, %s)"
+    cursor.execute(sql, (data['nombre'], data['apellido'], data['telefono'], data['correo']))
+    conn.commit()
+    cursor.close()
+    conn.close()
 
 @csrf_exempt
 def factura_view(request):
@@ -65,10 +82,11 @@ def factura_view(request):
         )
 
         connection.close()
+        insert_into_mysql(data)
         return JsonResponse({'mensaje': 'Factura enviada correctamente'})
 
     except Exception as e:
-        print("🔥 Error en el backend:", str(e))
+        print("Error en el backend:", str(e))
         return JsonResponse({'error': str(e)}, status=500)
 
 # Rutas Django
@@ -76,7 +94,6 @@ urlpatterns = [
     path('api/factura', factura_view),
 ]
 
-# Ejecutar servidor Django
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', '__main__')
     execute_from_command_line(['manage.py', 'runserver', '8000'])
